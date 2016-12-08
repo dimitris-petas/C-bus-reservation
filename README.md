@@ -1,2 +1,2 @@
-# C-bus-reservation
-A bus reservation system project in C
+# C++_bus_reservation
+A bus reservation system project in C++
